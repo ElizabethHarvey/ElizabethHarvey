@@ -2,7 +2,7 @@
   
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elizabeth-harvey-b26b75247/" target="_blank">
+<a href="https://linkedin.com/in/elizabeth-harvey-b26b75247/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -87,7 +87,7 @@ I specialize in building robust backends and designing systems that are light ye
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ElizabethHarvey&&style=flat-square)  
   
 
 <br/>  
@@ -96,4 +96,4 @@ I specialize in building robust backends and designing systems that are light ye
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.ElizabethHarvey.dev/" target="_blank">Github Profilinator</a></div>
