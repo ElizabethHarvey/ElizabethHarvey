@@ -33,8 +33,8 @@ I specialize in building robust backends and designing systems that are light ye
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishav.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>   
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
