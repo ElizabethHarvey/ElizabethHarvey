@@ -1,5 +1,16 @@
-## Hey 👋, I'm Elizabeth Harvey!  
+## Hey 👋, I'm Elizabeth Harvey!   
+
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I’m currently working on Mobile Dev  
   
+
+- 🌱 I’m currently learning React Native  
+  
+
+- ❓ Ask me about anything related to React Native or Mobile Dev  
+
+
 </td><td valign="top" width="50%">
 
 <div align="center">
